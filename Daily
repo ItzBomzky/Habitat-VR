@@ -1,1 +1,22 @@
 AR / VR HACKATHON 2022
+Project Progress: 
+
+Day 1 of the Hackathon - 
+Downloaded Unity Editor version 2022.1.23f1.
+Downloaded Unity Andriod SDK, Google VR, and some needed assets for our Project.
+Found out that Google VR SDK which is no longer supported on the version of Unity we downloaded so we had to downgrade.
+Downloaded Unity Editor 2019.4.40f1 which support Google VR SDK.
+Tested a Demo Google VR build which worked perfectly on the Unity 2019.4.40f1.
+Built a Map using unity terrain System.
+
+Day 2 of the Hackathon - 
+Used the Corals v1.0, and underwater Animals Pack v2.4 unity package prefabs on our project.
+Added Google VR Camera
+Added particle system to the map (bubbles for our underwater scene).
+Setup Animal Animations.
+Scripted the Animal Movement and Speed (added in the Code File).
+Audio Manager
+
+Day 3 of the Hackathon -
+Testing builds
+Optimizing and fixing errors
