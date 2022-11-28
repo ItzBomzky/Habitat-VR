@@ -1,2 +1,2 @@
 # UrbanDev-Studio
-Build a VR app about Habitat. 
+Building a VR app about Habitat. 
